@@ -1,0 +1,104 @@
+var header={
+    "background_image_url":"img/Final/Save money.jpg",
+    "background img text": {
+        "font size":"17px",
+        "font color":"white",
+        "font family":"sans-serif",
+        "text":"this is my page"
+        },
+    "buttons" : [{
+                "name":"Carriers",
+                    "url":"string",
+                    "background_color":"green",
+                    "font size":"8px",
+                    "font color":"black",
+                    "font family":"sans-serif"
+
+                },
+		{
+            "name":"shippers",
+            "url":"string",
+            "background_color":"green",
+            "font size":"8px",
+            "font color":"black",
+            "font family":"sans-serif"
+
+        },
+        {
+            "name":"SignUp",
+            "url":"string",
+            "background_color":"green",
+            "font size":"8px",
+            "font color":"black",
+            "font family":"sans-serif"
+
+        },
+        {
+            "name":"Login",
+            "url":"string",
+            "background_color":"green",
+            "font size":"8px",
+            "font color":"black",
+            "font family":"sans-serif"
+
+        }
+    ],
+    "navbar":{
+        "logo_url":"String",
+        "background_color":"red",
+        "color":"white",
+        "links" : [
+            {
+				"name":"Carriers",
+                "url":"String",
+                "font size":"8px",
+                "font color":"white",
+                "font family":"sans-serif"
+
+            },
+			{
+				"name":"Shippers",
+                "url":"String",
+                "font size":"8px",
+                "font color":"white",
+                "font family":"sans-serif"
+
+            },
+			{
+				"name":"About us",
+                "url":"String",
+                "font size":"8px",
+                "font color":"white",
+                "font family":"sans-serif"
+
+            },
+			{
+				"name":"Carrers",
+                "url":"String",
+                "font size":"8px",
+                "font color":"white",
+                "font family":"sans-serif"
+
+            },
+			{
+				"name":"Blog",
+                "url":"String",
+                "font size":"8px",
+                "font color":"white",
+                "font family":"sans-serif"
+
+            },
+			{
+				"name":"Contact",
+                "url":"String",
+                "font size":"8px",
+                "font color":"white",
+                "font family":"sans-serif"
+
+            }
+           
+        ]
+
+    }
+}
+
